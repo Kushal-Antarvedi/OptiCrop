@@ -6,7 +6,8 @@ OptiCrop is a Machine Learning-based web application that recommends the most su
 
 ## 🔗 Live Demo
 
-**Deployment URL:** To be updated after deployment.
+
+**Deployment URL:** https://opticrop-u9b8.onrender.com
 
 ---
 
@@ -125,10 +126,21 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-- Home Page
-- About Page
-- Predict Crop Page
-- Prediction Result
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### About Page
+
+![About Page](screenshots/about_page.png)
+
+### Predict Crop Page
+
+![Predict Crop Page](screenshots/predict_page.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/result_page.png)
 
 ---
 
